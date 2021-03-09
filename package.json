@@ -1,0 +1,23 @@
+{
+  "name": "funny_ecom",
+  "version": "1.0.0",
+  "description": "funny_ecom using fastify",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwath007/funny_ecom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwath007/funny_ecom/issues"
+  },
+  "homepage": "https://github.com/ashwath007/funny_ecom#readme",
+  "dependencies": {
+    "fastify": "^3.13.0",
+    "mongoose": "^5.11.19"
+  }
+}
